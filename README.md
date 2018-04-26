@@ -1,2 +1,3 @@
 # hello-world
-training session
+Hello everybody!
+Learning about GitHub today..
